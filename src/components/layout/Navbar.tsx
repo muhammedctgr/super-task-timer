@@ -12,7 +12,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className='flex justify-between items-center bg-green-600 text-white py-4 px-4'>
+    <header className='flex justify-between items-center shadow-lg p-3 mb-5 bg-green-600 text-white py-4 px-4'>
       <h2 className='text-lg'>
         <Link href='/'>
           <a>{SITE_TITLE}</a>
