@@ -2,6 +2,8 @@
 
 This is a fullstack [Next.js](https://nextjs.org/) project built with Typescript, Tailwind and JavaScript and I used HarperDB as the database.
 
+[Project link](https://super-task-timer-5o5i.vercel.app/).
+
 ## Overview
 
 ![Screenshot 2022-10-16 113522](https://user-images.githubusercontent.com/73699892/196030935-321b3483-5260-4d11-aa55-289daf3d35cd.jpg)
