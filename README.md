@@ -14,9 +14,9 @@ This is a fullstack [Next.js](https://nextjs.org/) project built with Typescript
 * Users can log in.
 * Create task and set timer for the task. 
 * Log the time used on the task.
-* Check stats about the tasks created, time used on a particular, when(date) tasks are created.
+* Check stats about tasks created, time used on a particular task, when(date) tasks are created.
 * Delete tasks.
-* 
+
 ## Getting Started
 
 First, run the development server:
